@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Student.cpp
+C:\Users\ASRock\Desktop\Лаба 2 плюсы Пащенко\ex3_var1\Student.cpp(138,48): warning C4244: =: преобразование "size_t" в "double", возможна потеря данных
+  Создание кода...
+  ex3_var1.vcxproj -> C:\Users\ASRock\Desktop\Лаба 2 плюсы Пащенко\x64\Debug\ex3_var1.exe
